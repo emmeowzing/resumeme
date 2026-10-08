@@ -3,6 +3,7 @@
 # Capture your own profile before building; the checked-in snapshot belongs to the project's author.
 # Settings and examples: docs/README.md. Credentials belong in environment variables or Actions secrets.
 
+
 logging:
   # OpenTelemetry JSON logs on stdout. DEBUG includes sanitized HTTP requests and browser progress.
   # Override with RESUMEME_LOG_LEVEL or the global --log-level option.
