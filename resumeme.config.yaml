@@ -38,7 +38,7 @@ readme:
   mode: resume
 
   # This repository publishes an example. Set README.md in your fork to replace the project landing page.
-  output: FORK_EXAMPLE.md
+  output: README.md
 
   # Optional plain-text introduction; null uses the shared boilerplate. The heading uses your captured name.
   introduction: null
@@ -53,7 +53,7 @@ pages:
 
   # Optional check against the domain configured in Settings > Pages, e.g. resume.tiger-lily-plants.com.
   # This does not change DNS or GitHub's domain settings. null also supports USER.github.io/REPOSITORY sites.
-  custom_domain: resume.tiger-lily-plants.com
+  custom_domain: resume.self.tiger-lily-plants.com
 
 # Optional Codex-generated About and portrait summary. Set OPENAI_API_KEY as an Actions secret before enabling.
 codex:
